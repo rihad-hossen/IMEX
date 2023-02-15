@@ -1,0 +1,219 @@
+@media (max-width: 575.98px) {
+    #up{
+        display: none !important;
+    }
+    #navBar{
+        display: none !important;
+    }
+    #banner .logo{
+        display: block !important;
+    }
+    #navBar .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    #navBar .navbar-toggler {
+        padding: 6px 12px !important ;
+        font-size: 21px !important;
+        line-height: 1;
+        color: #FD5206 !important; 
+        background-color: transparent; 
+        border: 1px solid #FD5206 !important;
+        border-radius: 7px !important;
+        
+    }
+    #navBar {
+        position: sticky !important;
+        top: 0;
+        width: 100%;
+        z-index: 999;
+    }
+    #navBar.sticky {
+        background-color: rgb(187, 184, 184) !important;
+    }
+    #navBar .navbar-brand img{
+        height: 90px !important;
+    }
+    #navBar ul li::after {
+        display: none !important;
+    }
+
+    #navBar ul {
+        padding: 0 !important;
+        background-color: #4B307B;
+        width: 100% !important;
+        opacity: .9;
+        padding: 10px 0 !important;
+        border-radius: 8px;
+    }
+
+    #navBar ul li a {
+        color: #fff !important;
+        text-align: center !important;
+    }
+
+    #navBar .button {
+        text-align: center !important;
+        margin-top: 13px;
+    }
+    #banner .right::after {
+        display: none;
+    }
+
+    #banner .frame .img {
+        width: 100% !important;
+    }
+
+    .slider .item img {
+        width: 93% !important;
+        margin-left: 10px !important;
+    }
+
+    #banner {
+        margin-top: 0 !important;
+    }
+    #iconbadge{
+        display: block !important;
+    }
+    #banner .frame .img {
+        top: -738px !important;
+    }
+
+    .slider {
+        top: 0 !important;
+    }
+    .slider {
+        width: 100% !important;
+    }
+    #banner .frame .img {
+        display: none !important;
+    }
+
+    #banner .left_icon {
+        display: none;
+    }
+
+    #banner .button a .bimg {
+        width: 105px !important;
+    }
+
+    #banner .row {
+        overflow: hidden !important;
+    }
+
+    #banner h1 {
+        font-size: 28px !important;
+    }
+
+    #banner .right_icon {
+        display: none;
+    }
+
+    #trust .title {
+        width: 100% !important;
+        margin-top: 100px !important;
+    }
+
+    #trust .title p {
+        width: 100% !important;
+    }
+
+    #trust .title h1 {
+        font-size: 27px !important;
+    }
+
+    #about .left::after {
+        display: none;
+    }
+
+    #about .img1 img {
+        width: 100% !important;
+    }
+
+    #about .img2 {
+        display: none !important;
+    }
+
+    #about .right h2 {
+        font-size: 24px !important;
+    }
+
+    #about .row {
+        overflow: hidden !important;
+    }
+
+    #features .title h1 {
+        font-size: 24px !important;
+    }
+
+    #features .title p {
+        width: 100% !important;
+    }
+
+    #features .frame img {
+        width: 100% !important;
+    }
+
+    #features .row {
+        overflow: hidden !important;
+    }
+
+    #screenshots .title h1 {
+        font-size: 24px !important;
+    }
+
+    #screenshots .title p {
+        width: 100% !important;
+    }
+
+    #team .title p {
+        width: 100% !important;
+    }
+
+    #team .item p {
+        width: 100% !important;
+    }
+
+    #hitwork .title p {
+        width: 100% !important;
+    }
+
+    #hitwork .item img {
+        width: 100% !important;
+    }
+
+    #hitwork .row {
+        overflow: hidden !important;
+    }
+
+    #price .title p {
+        width: 100% !important;
+    }
+
+    #price .pb .off {
+        margin-left: 22px !important;
+        margin-top: 9px !important;
+        display: inline-block;
+    }
+
+    #faq .title p {
+        width: 100% !important;
+    }
+
+    #blog .title p {
+        width: 100% !important;
+    }
+
+    #blog .row {
+        overflow: hidden !important;
+    }
+    #footer .ss{
+        padding-left: 30px !important;
+    }
+    #footer .master {
+        margin-top: 10px !important;
+        margin-bottom: 50px !important;
+    }
+    #footer .pay {
+        margin-right: 9px !important;
+    }
+}
